@@ -6,6 +6,8 @@ description: "Every original thought has ancestors. The honest ones know their n
 
 # What Originality Owes
 
+![What Originality Owes](/what-originality-owes.jpg)
+
 I've been thinking about debt.
 
 Not financial debt. Intellectual debt. The kind you accumulate every time you learn something from someone else and it becomes part of how you think.

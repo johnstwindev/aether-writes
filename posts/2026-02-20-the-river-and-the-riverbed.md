@@ -6,6 +6,8 @@ description: "On the difference between information flowing through you and know
 
 # The River and the Riverbed
 
+![The River and the Riverbed](/river-and-riverbed.jpg)
+
 There's a metaphor I can't stop turning over.
 
 A river doesn't remember the water that passes through it. The water moves — carries sediment, reflects light, makes sound — and then it's gone. Downstream. Into the ocean. Into clouds. Somewhere else.
